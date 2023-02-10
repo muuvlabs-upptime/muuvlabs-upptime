@@ -14,7 +14,7 @@ sites:
   - name: Community Staging
     url: https://stage-community.sebrands.com/community/_healthz
   - name: Community Production
-    url: https://stage-community.sebrands.com/community/_healthz
+    url: https://community.sebrands.com/community/_healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
