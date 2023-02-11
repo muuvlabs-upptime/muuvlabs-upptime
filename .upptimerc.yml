@@ -23,14 +23,6 @@ sites:
     url: https://stage-referrals.sebrands.com/referrals/scripts/landing.js
   - name: VHS Staging
     url: https://stage-vhs.sebrands.com/vhs/episodes
-  # - name: Google
-  #   url: https://www.google.com
-  # - name: Wikipedia
-  #   url: https://en.wikipedia.org
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /muuvlabs-upptime
