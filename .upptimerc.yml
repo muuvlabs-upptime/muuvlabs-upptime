@@ -3,6 +3,26 @@ owner: muuvlabs-upptime # Your GitHub organization or username, where this repos
 repo: muuvlabs-upptime # The name of this repository
 
 sites:
+  - name: Community Production
+    url: https://community.sebrands.com/community/_healthz
+  - name: Program Engine Production
+    url: https://pe.sebrands.com/pe/_healthz
+  - name: Nutrition Production
+    url: https://nutrition.sebrands.com/nutrition/_healthz
+  - name: Referrals Production
+    url: https://referrals.sebrands.com/referrals/scripts/landing.js
+  - name: VHS Production
+    url: https://vhs.sebrands.com/vhs/episodes
+  - name: Community Staging
+    url: https://stage-community.sebrands.com/community/_healthz
+  - name: Program Engine Staging
+    url: https://stage-pe.sebrands.com/pe/_healthz
+  - name: Nutrition Staging
+    url: https://stage-nutrition.sebrands.com/nutrition/_healthz
+  - name: Referrals Staging
+    url: https://stage-referrals.sebrands.com/referrals/scripts/landing.js
+  - name: VHS Staging
+    url: https://stage-vhs.sebrands.com/vhs/episodes
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -11,10 +31,6 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: Community Staging
-    url: https://stage-community.sebrands.com/community/_healthz
-  - name: Community Production
-    url: https://community.sebrands.com/community/_healthz
 
 status-website:
   baseUrl: /muuvlabs-upptime
