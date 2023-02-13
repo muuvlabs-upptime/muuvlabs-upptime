@@ -203,18 +203,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.muuvlabs.com.ico",
     "slug": "fake-website-4",
     "status": "up",
-    "uptime": "1.49%",
-    "uptimeDay": "1.49%",
-    "uptimeWeek": "1.49%",
-    "uptimeMonth": "1.49%",
-    "uptimeYear": "1.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 133,
     "timeDay": 133,
     "timeWeek": 133,
     "timeMonth": 133,
     "timeYear": 133,
-    "dailyMinutesDown": {
-      "2023-02-13": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
