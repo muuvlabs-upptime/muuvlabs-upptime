@@ -23,10 +23,10 @@ sites:
     url: https://stage-referrals.sebrands.com/referrals/scripts/landing.js
   - name: VHS Staging
     url: https://stage-vhs.sebrands.com/vhs/episodes
-  - name: Fake website
-    url: https://veryrealwebsite.trustmebro
   - name: Fake website 2
     url: https://veryrealwebsite.fr
+  - name: Fake website 3
+    url: https://veryrealwebsite.fosho
 
 status-website:
   baseUrl: /muuvlabs-upptime
