@@ -29,7 +29,7 @@ sites:
     url: https://dev.muuvlabs.com
 
 status-website:
-  baseUrl: /muuvlabs-upptime
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Services Upp status"
