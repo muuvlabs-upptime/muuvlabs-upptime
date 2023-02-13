@@ -25,6 +25,8 @@ sites:
     url: https://stage-vhs.sebrands.com/vhs/episodes
   - name: Fake website
     url: https://veryrealwebsite.trustmebro
+  - name: Fake website 2
+    url: https://veryrealwebsite.fr
 
 status-website:
   baseUrl: /muuvlabs-upptime
