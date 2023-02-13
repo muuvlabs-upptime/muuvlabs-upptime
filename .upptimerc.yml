@@ -26,7 +26,7 @@ sites:
   - name: Dev Muuvlabs
     url: https://dev.muuvlabs.com
   - name: Fake website 4
-    url: https://veryrealwebsite.nrfour
+    url: https://dev.muuvlabs.com
 
 status-website:
   baseUrl: /muuvlabs-upptime
