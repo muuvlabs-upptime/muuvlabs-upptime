@@ -29,6 +29,8 @@ sites:
     url: https://veryrealwebsite.fosho
   - name: Fake website
     url: https://veryrealwebsite.again
+  - name: Fake website 4
+    url: https://veryrealwebsite.nrfour
 
 status-website:
   baseUrl: /muuvlabs-upptime
