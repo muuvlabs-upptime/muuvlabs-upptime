@@ -31,14 +31,14 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
-      - name: Repeat notifications
-        uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yml@v1
-        with:
-          STATUS_FILE_PATH: history/summary.json
-          SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PORT }}
-          SMTP_SECURE: true
-          SMTP_USER: ${{ secrets.NOTIFICATION_EMAIL_SMTP_USERNAME }}
-          SMTP_PASS: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PASSWORD }}
-          SMTP_FROM: ${{ secrets.NOTIFICATION_EMAIL_FROM }}
-          SMTP_TO: ${{ secrets.NOTIFICATION_EMAIL_TO }}
+  repeat_notifications
+    uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yml@v1
+    with:
+      STATUS_FILE_PATH: history/summary.json
+      SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
+      SMTP_PORT: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PORT }}
+      SMTP_SECURE: true
+      SMTP_USER: ${{ secrets.NOTIFICATION_EMAIL_SMTP_USERNAME }}
+      SMTP_PASS: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PASSWORD }}
+      SMTP_FROM: ${{ secrets.NOTIFICATION_EMAIL_FROM }}
+      SMTP_TO: ${{ secrets.NOTIFICATION_EMAIL_TO }}
