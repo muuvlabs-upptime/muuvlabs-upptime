@@ -36,6 +36,7 @@ jobs:
     uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yaml@main
     with:
       STATUS_FILE_PATH: history/summary.json
+      CALLING_REPO: muuvlabs-upptime/muuvlabs-upptime
     secrets:
       SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
       SMTP_PORT: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PORT }}
