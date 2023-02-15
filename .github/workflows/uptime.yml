@@ -33,7 +33,7 @@ jobs:
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
   repeat_notifications:
     name: Check if a repeat notification must be sent
-    uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yml@v1
+    uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yml@main
     with:
       STATUS_FILE_PATH: history/summary.json
       SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
