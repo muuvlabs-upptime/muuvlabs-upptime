@@ -31,7 +31,8 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
-  repeat_notifications
+  repeat_notifications:
+    name: Check if a repeat notification must be sent
     uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yml@v1
     with:
       STATUS_FILE_PATH: history/summary.json
