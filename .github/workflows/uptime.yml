@@ -34,7 +34,7 @@ jobs:
   repeat_notifications:
     name: Check if a repeat notification must be sent
     uses: muuvlabs-upptime/muuvlabs-notifme/.github/workflows/notify.yaml@main
-    with:
+    env:
       STATUS_FILE_PATH: history/summary.json
       SMTP_HOST: ${{ secrets.NOTIFICATION_EMAIL_SMTP_HOST }}
       SMTP_PORT: ${{ secrets.NOTIFICATION_EMAIL_SMTP_PORT }}
