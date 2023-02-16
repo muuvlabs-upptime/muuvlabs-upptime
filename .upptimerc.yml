@@ -25,8 +25,6 @@ sites:
     url: https://stage-vhs.sebrands.com/vhs/episodes
   - name: Dev Muuvlabs
     url: https://dev.muuvlabs.com
-  - name: Fake website 4
-    url: https://dev.muuvlabs.com
 
 status-website:
   baseUrl: /muuvlabs-upptime
