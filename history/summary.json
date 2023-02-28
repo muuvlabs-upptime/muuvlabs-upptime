@@ -130,19 +130,19 @@
     "url": "https://stage-nutrition.sebrands.com/nutrition/_healthz",
     "icon": "https://icons.duckduckgo.com/ip3/stage-nutrition.sebrands.com.ico",
     "slug": "nutrition-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 398,
-    "timeWeek": 364,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 485,
+    "timeDay": 2242,
+    "timeWeek": 983,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
-      "2023-02-28": 0
+      "2023-02-28": 30
     }
   },
   {
