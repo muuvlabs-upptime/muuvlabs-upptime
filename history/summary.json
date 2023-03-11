@@ -13,7 +13,7 @@
     "time": 299,
     "timeDay": 381,
     "timeWeek": 341,
-    "timeMonth": 301,
+    "timeMonth": 302,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 304,
     "timeDay": 383,
     "timeWeek": 334,
-    "timeMonth": 304,
+    "timeMonth": 306,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 301,
     "timeDay": 367,
     "timeWeek": 333,
-    "timeMonth": 301,
+    "timeMonth": 305,
     "timeYear": 301,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 291,
     "timeDay": 371,
     "timeWeek": 341,
-    "timeMonth": 291,
+    "timeMonth": 289,
     "timeYear": 291,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 298,
     "timeDay": 484,
     "timeWeek": 338,
-    "timeMonth": 298,
+    "timeMonth": 299,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 321,
     "timeDay": 424,
     "timeWeek": 356,
-    "timeMonth": 317,
+    "timeMonth": 322,
     "timeYear": 321,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 305,
     "timeDay": 364,
     "timeWeek": 339,
-    "timeMonth": 305,
+    "timeMonth": 308,
     "timeYear": 305,
     "dailyMinutesDown": {}
   },
@@ -131,15 +131,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-nutrition.sebrands.com.ico",
     "slug": "nutrition-staging",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 446,
     "timeDay": 376,
     "timeWeek": 362,
-    "timeMonth": 446,
+    "timeMonth": 460,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2023-02-28": 30
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage-referrals.sebrands.com.ico",
     "slug": "referrals-staging",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "94.19%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 738,
     "timeDay": 9545,
     "timeWeek": 2689,
-    "timeMonth": 738,
+    "timeMonth": 778,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-03-11": 0
+      "2023-03-11": 84
     }
   },
   {
@@ -179,7 +179,7 @@
     "time": 315,
     "timeDay": 370,
     "timeWeek": 345,
-    "timeMonth": 315,
+    "timeMonth": 314,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
