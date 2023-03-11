@@ -150,19 +150,19 @@
     "url": "https://stage-referrals.sebrands.com/referrals/scripts/landing.js",
     "icon": "https://icons.duckduckgo.com/ip3/stage-referrals.sebrands.com.ico",
     "slug": "referrals-staging",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 738,
-    "timeDay": 9545,
-    "timeWeek": 2689,
-    "timeMonth": 778,
-    "timeYear": 738,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 729,
+    "timeDay": 6469,
+    "timeWeek": 2426,
+    "timeMonth": 766,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-03-11": 84
+      "2023-03-11": 100
     }
   },
   {
