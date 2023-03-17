@@ -151,9 +151,9 @@
     "url": "https://stage-referrals.sebrands.com/referrals/scripts/landing.js",
     "icon": "https://icons.duckduckgo.com/ip3/stage-referrals.sebrands.com.ico",
     "slug": "referrals-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.80%",
@@ -163,6 +163,7 @@
     "timeMonth": 950,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2023-03-17": 0,
       "2023-03-11": 100
     }
   },
