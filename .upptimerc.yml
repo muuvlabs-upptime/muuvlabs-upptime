@@ -13,20 +13,16 @@ sites:
     url: https://referrals.sebrands.com/referrals/scripts/landing.js
   - name: VHS Production
     url: https://vhs.sebrands.com/vhs/episodes
-  - name: Community Staging
-    url: https://stage-community.sebrands.com/community/_healthz
-  - name: Program Engine Staging
-    url: https://stage-pe.sebrands.com/pe/_healthz
-  - name: Nutrition Staging
-    url: https://stage-nutrition.sebrands.com/nutrition/_healthz
-  - name: Referrals Staging
-    url: https://stage-referrals.sebrands.com/referrals/scripts/landing.js
-  - name: VHS Staging
-    url: https://stage-vhs.sebrands.com/vhs/episodes
-  - name: Dev Muuvlabs
-    url: https://dev.muuvlabs.com
-  - name: Test Website - Ignore
-    url: https://broken-test-ignore.muuvlabs.com/broken-test-ignore
+  - name: muuvlabs.com Website
+    url: https://muuvlabs.com/
+  - name: api.muuvlabs.com
+    url: https://api.muuvlabs.com/
+  - name: muuv.fit website
+    url: https://muuv.fit/
+  - name: muuv.fit API
+    url: https://muuv.fit/api/users/me
+  - name: 24go API
+    url: https://api.24go.co/users/me
 
 status-website:
   baseUrl: /muuvlabs-upptime
