@@ -25,6 +25,8 @@ sites:
     url: https://stage-vhs.sebrands.com/vhs/episodes
   - name: Dev Muuvlabs
     url: https://dev.muuvlabs.com
+  - name: Test Website - Ignore
+    url: https://broken-test-ignore.muuvlabs.com/broken-test-ignore
 
 status-website:
   baseUrl: /muuvlabs-upptime
