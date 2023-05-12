@@ -22,18 +22,20 @@
     "url": "https://pe.sebrands.com/pe/_healthz",
     "icon": "https://icons.duckduckgo.com/ip3/pe.sebrands.com.ico",
     "slug": "program-engine-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 371,
-    "timeWeek": 270,
-    "timeMonth": 426,
+    "timeDay": 355,
+    "timeWeek": 279,
+    "timeMonth": 423,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-12": 0
+    }
   },
   {
     "name": "Nutrition Production",
