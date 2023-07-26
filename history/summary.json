@@ -132,10 +132,10 @@
     "url": "https://muuv.fit/",
     "icon": "https://icons.duckduckgo.com/ip3/muuv.fit.ico",
     "slug": "muuv-fit-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 362,
@@ -144,7 +144,7 @@
     "timeMonth": 332,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-07-26": 16
+      "2023-07-26": 17
     }
   },
   {
@@ -152,10 +152,10 @@
     "url": "https://muuv.fit/api/users/me",
     "icon": "https://icons.duckduckgo.com/ip3/muuv.fit.ico",
     "slug": "muuv-fit-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
@@ -163,16 +163,18 @@
     "timeWeek": 55,
     "timeMonth": 49,
     "timeYear": 64,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 1
+    }
   },
   {
     "name": "24go API",
     "url": "https://api.24go.co/users/me",
     "icon": "https://icons.duckduckgo.com/ip3/api.24go.co.ico",
     "slug": "24go-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,6 +183,8 @@
     "timeWeek": 149,
     "timeMonth": 129,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   }
 ]
