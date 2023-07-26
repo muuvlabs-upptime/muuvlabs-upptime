@@ -132,19 +132,19 @@
     "url": "https://muuv.fit/",
     "icon": "https://icons.duckduckgo.com/ip3/muuv.fit.ico",
     "slug": "muuv-fit-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 286,
-    "timeWeek": 306,
-    "timeMonth": 333,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 362,
+    "timeDay": 291,
+    "timeWeek": 305,
+    "timeMonth": 332,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 16
     }
   },
   {
