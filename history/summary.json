@@ -82,19 +82,19 @@
     "url": "https://vhs.sebrands.com/vhs/episodes",
     "icon": "https://icons.duckduckgo.com/ip3/vhs.sebrands.com.ico",
     "slug": "vhs-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 8027,
-    "timeWeek": 2097,
-    "timeMonth": 857,
+    "timeDay": 5521,
+    "timeWeek": 1938,
+    "timeMonth": 847,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2023-09-10": 0
+      "2023-09-10": 11
     }
   },
   {
