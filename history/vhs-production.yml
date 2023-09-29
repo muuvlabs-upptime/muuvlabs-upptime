@@ -1,7 +1,7 @@
 url: https://vhs.sebrands.com/vhs/episodes
-status: down
-code: 503
-responseTime: 10161
-lastUpdated: 2023-09-29T21:35:48.458Z
+status: up
+code: 200
+responseTime: 417
+lastUpdated: 2023-09-29T21:46:32.043Z
 startTime: 2023-02-11T00:22:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
