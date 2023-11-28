@@ -1,7 +1,7 @@
 url: https://nutrition.sebrands.com/nutrition/_healthz
-status: down
-code: 503
-responseTime: 617
-lastUpdated: 2023-11-28T21:49:30.423Z
+status: up
+code: 200
+responseTime: 279
+lastUpdated: 2023-11-28T21:59:55.463Z
 startTime: 2023-02-11T00:22:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
