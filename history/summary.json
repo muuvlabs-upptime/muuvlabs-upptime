@@ -175,17 +175,19 @@
     "url": "https://api.24go.co/users/me",
     "icon": "https://icons.duckduckgo.com/ip3/api.24go.co.ico",
     "slug": "24go-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 88,
-    "timeWeek": 93,
-    "timeMonth": 138,
+    "timeDay": 87,
+    "timeWeek": 92,
+    "timeMonth": 136,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   }
 ]
