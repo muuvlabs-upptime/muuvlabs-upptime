@@ -101,19 +101,19 @@
     "url": "https://muuvlabs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/muuvlabs.com.ico",
     "slug": "muuvlabs-com-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 119,
-    "timeWeek": 278,
-    "timeMonth": 268,
-    "timeYear": 267,
+    "time": 268,
+    "timeDay": 252,
+    "timeWeek": 291,
+    "timeMonth": 272,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 12
     }
   },
   {
