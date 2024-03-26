@@ -101,9 +101,9 @@
     "url": "https://muuvlabs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/muuvlabs.com.ico",
     "slug": "muuvlabs-com-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,7 +112,9 @@
     "timeWeek": 278,
     "timeMonth": 268,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "api.muuvlabs.com",
