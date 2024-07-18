@@ -82,18 +82,20 @@
     "url": "https://vhs.sebrands.com/vhs/episodes",
     "icon": "https://icons.duckduckgo.com/ip3/vhs.sebrands.com.ico",
     "slug": "vhs-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 345,
-    "timeWeek": 527,
-    "timeMonth": 500,
-    "timeYear": 522,
-    "dailyMinutesDown": {}
+    "time": 477,
+    "timeDay": 2968,
+    "timeWeek": 1160,
+    "timeMonth": 659,
+    "timeYear": 535,
+    "dailyMinutesDown": {
+      "2024-07-18": 0
+    }
   },
   {
     "name": "muuvlabs.com Website",
