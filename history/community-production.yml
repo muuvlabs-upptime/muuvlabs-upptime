@@ -1,7 +1,7 @@
 url: https://community.sebrands.com/community/_healthz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-28T08:45:58.047Z
+status: up
+code: 200
+responseTime: 253
+lastUpdated: 2024-10-28T15:25:32.490Z
 startTime: 2023-02-10T23:39:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
