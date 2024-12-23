@@ -60,19 +60,19 @@
     "url": "https://referrals.sebrands.com/referrals/scripts/landing.js",
     "icon": "https://icons.duckduckgo.com/ip3/referrals.sebrands.com.ico",
     "slug": "referrals-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 341,
-    "timeWeek": 297,
-    "timeMonth": 355,
-    "timeYear": 332,
+    "time": 372,
+    "timeDay": 564,
+    "timeWeek": 358,
+    "timeMonth": 369,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-12-23": 0
+      "2024-12-23": 16
     }
   },
   {
